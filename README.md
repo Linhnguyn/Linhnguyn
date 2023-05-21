@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+I am Hoang Thuy Linh Nguyen, my student number is 47384573
 The overall presentation of my study
-- In the portfolio 1, we discuss the main issue is analysis of yelp data. We studied how to wirte a python code to check for missing values and then remove that missing values in each column. As well, select a random subset and extract in the dataset. Furthermore, we compute summary statistics including mean, count, maximum, minimum and standard deviation values.Lastly, the portfolio explore the distribution of each variable, analysis and observation the data.
-- In the portfolio 2, we discuss based on the Yelp dataset output from Portfolio 1. The portfolio is to apply different techniques for data cleansing, preprocessing and deletion of irrelevant information as well as the removal of any outliers that may have a bearing on model accuracy. It also intends to use linear regression models for training and validation of the model's accuracy as regards predicting user ratings on a business basis.
-- In the portfolio 3, using data from the lending club, the portfolio created a logistic regression model to forecast credit policy. we also practice dividing the training dataset and test and validation sets. Utilizing the k-fold cross-validation method, we can assess the logistic regression model using the validation set. 
-- In the portfolio 4, we choose and identity the data to analysis. We can perform data investigation techniques such as variable identification, univariate analysis, and missing value treatment. In addition, we use multiple analysis techniques to perform linear regression on some variables within the group or logistic regression to create a standard classification performance.
+- In portfolio 1, I discuss the main issue is data structure. I learned about python theories and how to wirte a python code. Also, I explore descriptive statistics and the distribution of each variable analysis and observation the data. 
+- In portfolio 2, I concern based on the Yelp dataset output from Portfolio 1. The portfolio is explore the correlation, predictive modelling, introducing linear and logistic regression. 
+- In portfolio 3, using data from the lending club. I utilize the k-fold cross-validation method and assess the logistic regression model using the validation set. 
+- - In Portfolio 4, I select and define data for analysis. In this activity such as summarizing knowledge and analysis from previous portfolios.
